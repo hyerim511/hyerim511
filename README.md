@@ -1,6 +1,10 @@
-# Hi there 👋
+<!-- # Hi there 👋 -->
 
-![Background animation from MungMung](/img/hello.gif)
+<p align="center">
+  <img src="/img/hello.gif" />
+</p>
+
+<!-- ![Background animation from MungMung](/img/hello.gif) -->
 
 <!--
 **hyerim511/hyerim511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
