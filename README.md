@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ![Background animation from MungMung](/img/hello.gif)
 
