@@ -2,9 +2,7 @@
 
 <p align="center">
   <img width="400px" height="auto" src="/img/hello.gif" />
-
-  <h3>My name is Hyerim</h3>
-  <h3>I'm a Web Developer and Designer</h3>
+  <h3 align="center">My name is Hyerim, and I'm a Web Developer and Designer :woman_astronaut:</h3>
 </p>
 
 
