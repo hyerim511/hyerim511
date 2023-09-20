@@ -12,7 +12,7 @@ In addition to my core skills, I have actively expanded my knowledge by learning
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vue,php,jquery,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vue,php,jquery,express" /><br>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
