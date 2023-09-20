@@ -4,7 +4,7 @@
   <img width="400px" height="auto" src="/img/hello.gif" />
 </p>
 <h3 align="center">My name is Hyerim, and I'm a Web Developer and Designer :woman_astronaut:</h3>
-
+<hr>
 <p>
 I'm a web developer with over 10 years of experience in UI/UX and graphic design. Throughout my career, I have honed my skills in HTML, CSS, and JavaScript to create visually appealing and user-friendly websites.
 
@@ -12,7 +12,8 @@ In addition to my core skills, I have actively expanded my knowledge by learning
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vue,php,jquery,express" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vue,jquery" /><br>
+  <img src="https://skillicons.dev/icons?i=php,express,mysql,git,github" /><br>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
