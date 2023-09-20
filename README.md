@@ -11,9 +11,10 @@ I'm a web developer with over 10 years of experience in UI/UX and graphic design
 In addition to my core skills, I have actively expanded my knowledge by learning SCSS, VueJS, PHP, Wordpress, Bootstrap, Git (including Github), and MySQL. I acquired these skills not only through personal projects but also through engaging team projects. Currently, I am also in the process of learning ReactJS, and I have a growing interest in TypeScript and Python :laughing:
 </p>
 
-### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vue,php,jquery,express" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
 
 <!--
 **hyerim511/hyerim511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
